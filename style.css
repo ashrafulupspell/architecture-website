@@ -1,0 +1,48 @@
+.display-flex{
+    display:flex;
+}
+.navbar{
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto; 
+    
+}
+.nav-links{
+    text-decoration: none;
+    font-weight: 500;
+}
+.nav-item{
+    list-style: none;
+    margin-right: 30px;
+}
+.brand{
+    font-weight: 700;
+    font-size: 3rem;
+    
+}
+.bag-color{
+    background-color: rgba(255, 144, 14, 0.1);;
+}
+
+/* Bannar style */
+
+.banner-content{
+
+}
+
+.banner{
+
+}
+.banner-title{
+
+}
+.banner-description{
+    
+}
+.btn-primarry{
+
+}
+.banner-img{
+    width:100%;
+
+}
